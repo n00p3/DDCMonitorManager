@@ -44,3 +44,6 @@ Temporary Items
 *.suo
 DDCMonitorManager/bin/*
 DDCMonitorManager/obj/*
+/.vs/DDCMonitorManager/v16/Server/sqlite3
+/.vs
+/packages

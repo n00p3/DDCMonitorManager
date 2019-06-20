@@ -10,7 +10,7 @@ using System.Diagnostics;
 
 namespace DDCMonitorManager
 {
-    class BrightnessControl
+    public class BrightnessControl
     {
 
         private IntPtr hWnd;
